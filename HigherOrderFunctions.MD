@@ -39,5 +39,3 @@ return output;
 }
 
 console.log(calculate(values, findSqrt))
-
-#programming #javascript #functions #higherorderfunctions #code #oops #developer #web #frontend #vannilajs #functionalprogramming #js #javascriptdeveloper
